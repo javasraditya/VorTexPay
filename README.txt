@@ -1,0 +1,1 @@
+Proyek VorTexPay - siap dibuild menjadi APK via Expo
